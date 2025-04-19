@@ -3,9 +3,6 @@
 > **Tagline:** _Powering a corruption-free and transparent government procurement system using blockchain._
 
 ![HACK 5.0 Winning Project](./svgviewer-png-output.png)
-
-- [Devfolio Link](https://devfolio.co/projects/tenderlink-51ab)
-
 ## Overview
 
 India’s public procurement process, especially in infrastructure and logistics, often suffers from corruption, lack of transparency, and bid manipulation. Our project leverages **blockchain technology** to build a transparent, tamper-proof, and auditable system for managing government tenders.
